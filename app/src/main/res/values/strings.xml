@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentCambioActivityEventoOnclick</string>
+    <string name="et_nombre_hint">Nombre</string>
+    <string name="btn_text">Saludos</string>
+</resources>
